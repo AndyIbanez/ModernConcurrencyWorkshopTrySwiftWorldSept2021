@@ -1,0 +1,1 @@
+This demo (UIKit) has no interface to speak off. It simply shows how we can use `AsyncStream` to bridge something that receives values over time (via a delegate or closure) into async/await so they can be used in `for await` loops.
